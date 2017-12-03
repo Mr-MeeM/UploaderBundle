@@ -1,0 +1,4 @@
+services:
+#    systeo_uploader.example:
+#        class: Systeo\UploaderBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
